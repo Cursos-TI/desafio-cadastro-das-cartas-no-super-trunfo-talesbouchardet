@@ -1,5 +1,6 @@
 Exemplo de saída após finalização do script.
 
+```
 Cadastre as informacoes para a primeira carta:
 -------------------------------------
 
@@ -53,3 +54,4 @@ Densidade Populacional:..... Carta 1 venceu (1)
 Numero de Pontos Turisticos: Carta 2 venceu (0)
 PIB per Capita:............. Carta 2 venceu (0)
 Super Poder:................ Carta 2 venceu (0)
+```
