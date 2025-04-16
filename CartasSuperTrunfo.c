@@ -20,7 +20,7 @@ int main() {
     printf("Digite a populacao da cidade (Carta 1): ");
     scanf("%d", &populacao1);
 
-    printf("Digite a area da cidade em Km² (Carta 1): ");
+    printf("Digite a area da cidade em Km2 (Carta 1): ");
     scanf("%f", &area1);
 
     printf("Digite o PIB da cidade (Carta 1): ");
@@ -44,7 +44,7 @@ int main() {
     printf("Digite a populacao da cidade (Carta 2): ");
     scanf("%d", &populacao2);
 
-    printf("Digite a area da cidade em Km² (Carta 2): ");
+    printf("Digite a area da cidade em Km2 (Carta 2): ");
     scanf("%f", &area2);
 
     printf("Digite o PIB da cidade (Carta 2): ");
