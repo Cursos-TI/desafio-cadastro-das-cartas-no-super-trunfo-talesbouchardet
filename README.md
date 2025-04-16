@@ -5,7 +5,7 @@ Cadastre as informacoes para a primeira carta:
 -------------------------------------
 
 Digite a populacao da cidade (Carta 1): 500000
-Digite a area da cidade (Carta 1): 600  
+Digite a area da cidade em Km2 (Carta 1): 600  
 Digite o PIB da cidade (Carta 1): 1000000
 Digite o numero de pontos turisticos (Carta 1): 20 
 
@@ -14,7 +14,7 @@ Cadastre as informacoes para a segunda carta:
 -------------------------------------
 
 Digite a populacao da cidade (Carta 2): 800000
-Digite a area da cidade (Carta 2): 700
+Digite a area da cidade em Km2 (Carta 2): 700
 Digite o PIB da cidade (Carta 2): 5000000
 Digite o numero de pontos turisticos (Carta 2): 80
 
